@@ -18,15 +18,15 @@ Before this, I worked in technical operations: site reliability and developer su
 
 ## 🧠 Approach: How I think about problems
 
-I start with the work itself. Gemba walks with the people doing it show where the process actually breaks down, which often differs from the documented version.
+- I start with the work itself. Gemba walks with the people doing it show where the process actually breaks down, which often differs from the documented version.
 
-From there, I look at the whole system. Workflow and gap analysis identify the root cause, and downstream impact analysis shows which teams a fix will affect before it ships. As a Six Sigma–certified practitioner, I fix the process before automating it; automating a flawed process only produces flawed results faster.
+- From there, I look at the whole system. Workflow and gap analysis identify the root cause, and downstream impact analysis shows which teams a fix will affect before it ships. As a Six Sigma–certified practitioner, I fix the process before automating it; automating a flawed process only produces flawed results faster.
 
-Before measuring, I define what a correct outcome looks like: the decision being made and who owns it. Then I establish a baseline and examine why the misses occur.
+- Before measuring, I define what a correct outcome looks like: the decision being made and who owns it. Then I establish a baseline and examine why the misses occur.
 
-I earn buy-in with a working prototype and the evidence behind it. Ideas I've presented to senior leadership this way have been adopted and are now in execution.
+- I earn buy-in with a working prototype and the evidence behind it. Ideas I've presented to senior leadership this way have been adopted and are now in execution.
 
-I build the first version myself and hand work that requires production-level scale and reliability to the engineering teams who own it. After launch, I stay involved, because a tool people don't trust won't get used.
+- I build the first version myself and hand work that requires production-level scale and reliability to the engineering teams who own it. After launch, I stay involved, because a tool people don't trust won't get used.
 
 ## 🧰 Tech Stack: What I build with
 
