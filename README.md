@@ -38,6 +38,7 @@ Before this, I worked in technical operations: site reliability and developer su
 ## 🧪 Projects: What I do for fun
 
 - [meal-planner](https://github.com/calter-labs/meal-planner): React app for weekly family meal planning, with a meal library and auto-generated grocery lists
+- [eval-metrics](https://github.com/calter-labs/eval-metrics): Python script that scores AI decisions against human labels, with precision, recall, and agreement
 
 ## 🫱🏿‍🫲🏼 Connect: How you can reach me
 
